@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jesse
-- 👀 I’m interested in ...
+- 👀 I’m interested in all about frontend stuff
 - 🌱 I’m currently learning react and TS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zz597375428@gmail.com
 
 <!---
